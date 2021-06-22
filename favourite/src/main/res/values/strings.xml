@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_favourite">No Favourite</string>
+    <string name="not_found_error">Not Found Error</string>
+</resources>

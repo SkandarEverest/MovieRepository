@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MADE MOVIE APP</string>
+    <string name="title_favourite">favourite</string>
+    <string name="can_t_fetch_data">Can\'t Fetch Data</string>
+    <string name="favorite_menu">Favorite</string>
+    <string name="uri_name">made://favorite</string>
+    <string name="not_found_error">Not Found Error</string>
+
+</resources>
